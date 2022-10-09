@@ -1,5 +1,5 @@
 # react-native-expo-todoList
-To Do List
+This project was created following the tutorial from MadeWithMatt
 
 Project from https://www.youtube.com/c/MadeWithMatt
 
